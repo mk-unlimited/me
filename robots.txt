@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: mk-unlimited.github.io/sitemap.xml
+Sitemap: smoothonedigital.com/sitemap.xml
