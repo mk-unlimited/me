@@ -1,24 +1,6 @@
 [
   
     {
-      "title"    : "Disable Jekyll&#39;s default syntax highlighter Rouge",
-      "description" : "How to disable Jekyll&#39;s default syntax highlighter",
-      "category" : "",
-      "tags"     : "coding, jekyll",
-      "url"      : "/me/2018/02/05/disable-jekylls-default-syntax-highlighter-rouge",
-      "date"     : "2018-02-05 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Image caption in Jekyll",
-      "description" : "Using an image caption in Jekyll",
-      "category" : "",
-      "tags"     : "jekyll, coding",
-      "url"      : "/me/2018/02/03/image-captions-in-jekyll",
-      "date"     : "2018-02-03 00:00:00 +0100"
-    } ,
-  
-    {
       "title"    : "Showing the word count in Jekyll",
       "description" : "Obtaining the word count from a post in Jekyll",
       "category" : "",
