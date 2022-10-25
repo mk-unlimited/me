@@ -4,7 +4,7 @@
  <title>Mark Kumar</title>
  <link href="/me/atom.xml" rel="self"/>
  <link href="/me/"/>
- <updated>2022-10-25T07:51:09+02:00</updated>
+ <updated>2022-10-25T07:52:37+02:00</updated>
  <id></id>
  <author>
    <name>Mark</name>
@@ -341,10 +341,10 @@ Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee 
  </entry>
  
  <entry>
-   <title>Jejkyll Headers</title>
-   <link href="/me/2017/01/02/headers-test"/>
+   <title>Quality Score Could Reduce Your PPC Cost</title>
+   <link href="/me/2017/01/02/quality-score-google-ads"/>
    <updated>2017-01-02T00:00:00+01:00</updated>
-   <id>/2017/01/02/headers-test</id>
+   <id>/2017/01/02/quality-score-google-ads</id>
    <content type="html">&lt;h1 id=&quot;headers-test&quot;&gt;Headers Test&lt;/h1&gt;
 &lt;p&gt;This page tests jekyll headers&lt;/p&gt;
 
