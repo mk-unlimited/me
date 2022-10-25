@@ -1,15 +1,6 @@
 [
   
     {
-      "title"    : "Staticman comments on a Jekyll site",
-      "description" : "Generating comments on static sites with Staticman",
-      "category" : "",
-      "tags"     : "jekyll, coding",
-      "url"      : "/me/2019/07/23/staticman-comments-on-a-jekyll-site",
-      "date"     : "2019-07-23 00:00:00 +0200"
-    } ,
-  
-    {
       "title"    : "Adding HTTP response headers to a Netlify static website",
       "description" : "Increase the security of your Netlify website by adding security headers",
       "category" : "",
