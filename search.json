@@ -1,24 +1,6 @@
 [
   
     {
-      "title"    : "Quotes In Jekyll",
-      "description" : "This is how quotes look in jekyll",
-      "category" : "",
-      "tags"     : "quotes, jekyll",
-      "url"      : "/me/2017/02/05/quotes-test",
-      "date"     : "2017-02-05 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Creating navigation menu in Jekyll",
-      "description" : "Using data folder to build Jekyll navigation",
-      "category" : "",
-      "tags"     : "coding, jekyll",
-      "url"      : "/me/2017/01/03/creating-navigation-menu-in-jekyll",
-      "date"     : "2017-01-03 00:00:00 +0100"
-    } ,
-  
-    {
       "title"    : "Quality Score Could Reduce Your PPC Cost",
       "description" : "Quality Score in Google Ads can be monumental in making better experience on google ads.",
       "category" : "",
