@@ -1,15 +1,6 @@
 [
   
     {
-      "title"    : "Redirect Jekyll URLs",
-      "description" : "How to Redirect Pages in Jekyll",
-      "category" : "",
-      "tags"     : "coding, jekyll",
-      "url"      : "/me/2017/11/10/redirect-jekyll-urls",
-      "date"     : "2017-11-10 00:00:00 +0100"
-    } ,
-  
-    {
       "title"    : "Quotes In Jekyll",
       "description" : "This is how quotes look in jekyll",
       "category" : "",
