@@ -4,7 +4,7 @@
  <title>Mark Kumar</title>
  <link href="/me/atom.xml" rel="self"/>
  <link href="/me/"/>
- <updated>2022-11-02T11:13:07+01:00</updated>
+ <updated>2022-11-02T11:13:47+01:00</updated>
  <id></id>
  <author>
    <name>Mark</name>
@@ -42,9 +42,9 @@
  
  <entry>
    <title>LPI and Examples</title>
-   <link href="/me/2016/11/27/top-monospaced-fonts-for-coding"/>
+   <link href="/me/2016/11/27/lpi-examples"/>
    <updated>2016-11-27T00:00:00+01:00</updated>
-   <id>/2016/11/27/top-monospaced-fonts-for-coding</id>
+   <id>/2016/11/27/lpi-examples</id>
    <content type="html">&lt;h1 id=&quot;low-purchase-intent-lpi-search-terms&quot;&gt;Low Purchase Intent (LPI) Search Terms&lt;/h1&gt;
 
 &lt;p&gt;Negative keywords are words and phrases that you do not want searchers to associate with your products and services (see Google Ads blog for some high-level information about negative keywords). When you add negative keywords to your PPC campaigns your ads will not be served if those words are part of the user’s search query.&lt;/p&gt;
