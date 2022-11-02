@@ -3,7 +3,7 @@ layout: post
 title: Quality Score Could Reduce Your PPC Cost
 description: Quality Score in Google Ads can be monumental in making better experience on google ads. 
 summary: Here we cover what are the things to lookout for and examples to use in order to improve Ad Quality
-tags: headers jekyll css
+tags: googleads QoAS LandingPage CTR
 minute: 1
 ---
 
