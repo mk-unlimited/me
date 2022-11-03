@@ -9,7 +9,7 @@ minute: 1
 
 To put on short sentences. A/B Testing is when you would need to test out if your ads are getting you the best conversion from your website or any ads for that matter on google platforms. This is similar to the [ads quality score](https://mk-unlimited.github.io/me/2017/01/02/quality-score-google-ads)
 
-![google ads experimenting](https://th.bing.com/th/id/OIP.tDoq3lvnPDUr6UrDgp65mQHaEW?pid=ImgDet&rs=1)
+![google ads experimenting](https://www.dmagency.us/wp-content/uploads/imagen-google-ads-768x512.jpg)
 
 So, you want to improve your Google Ads campaigns? Enter Google Ads Campaign Experiments, or ACE for short. ACE is a feature that helps you measure the impact of potential changes before applying them to a campaign. When used properly, it does this as a vehicle for A/B testing.
 
