@@ -9,6 +9,8 @@ minute: 1
 
 To put on short sentences. A/B Testing is when you would need to test out if your ads are getting you the best conversion from your website or any ads for that matter on google platforms. This is similar to the [ads quality score](https://mk-unlimited.github.io/me/2017/01/02/quality-score-google-ads)
 
+![google ads experimenting](https://th.bing.com/th/id/OIP.tDoq3lvnPDUr6UrDgp65mQHaEW?pid=ImgDet&rs=1)
+
 So, you want to improve your Google Ads campaigns? Enter Google Ads Campaign Experiments, or ACE for short. ACE is a feature that helps you measure the impact of potential changes before applying them to a campaign. When used properly, it does this as a vehicle for A/B testing.
 
 As we discussed in our previous post, A/B testing is essentially a process applying basic scientific principles to digital advertising. Following the first things we learned in elementary school science, this is achieved by comparing two versions of a campaign wherein all variables but one are controlled, and it’s the effect of this manipulated variable that’s being measured.
@@ -19,6 +21,8 @@ And again, the most important thing to remember: Other than the single manipulat
 
 # A Big Ol’ Guide to the Google Experiment Process & Settings
 
+![experimenting google ads](https://www.operationroi.com/wp-content/uploads/2016/04/Test-confidently-blog-2.jpg)
+
 The first part of beginning a Google Ads experiment is to create a draft. This is a duplication of a pre-existing campaign that allows you to easily make your variable change and submit as an experiment.
 
 After creating your draft and defining the manipulated variable, you’ll select your start and end date. Google recommends no shorter than four to six weeks for experiments testing bid strategy, since it takes the system a while to learn how to best optimize your bids. And even if you’re conducting an experiment based on creative factors like ad copy or image ads, it’s important to remember they must go through an approval period. Usually, that should take no longer than a day, but it’s worth factoring into the schedule.
@@ -28,6 +32,8 @@ Once the start and end dates are determined, you’ll decide on your experiment 
 During the campaign experiment and once it’s over, you’ll be able to view statistically significant data metrics at the top of the experiments campaign section. This way, you can gain an easy and accurate understanding of the performance of a campaign update.
 
 # Ways to Experiment
+
+![ways to experiment with google ads](https://www.stressfreeprint.co.uk/media/wysiwyg/Landing_Page_Plan_Printing_Detail.jpg)
 
 When it comes to variables to test, there’s no “right” one. This is because different campaigns have different objectives and relative weaknesses upon which to be improved. There are, however, some common choices. Here are some of them:
 
