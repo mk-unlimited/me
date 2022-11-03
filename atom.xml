@@ -4,7 +4,7 @@
  <title>Mark Kumar</title>
  <link href="/me/atom.xml" rel="self"/>
  <link href="/me/"/>
- <updated>2022-11-03T05:27:29+01:00</updated>
+ <updated>2022-11-03T05:28:36+01:00</updated>
  <id></id>
  <author>
    <name>Mark</name>
@@ -98,9 +98,12 @@
 &lt;h2 id=&quot;1-review-your-quality-score-components&quot;&gt;1. Review your Quality Score components&lt;/h2&gt;
 &lt;p&gt;For specific insights on where to make improvements, dive deeper into the 3 components of Quality Score as stated above:&lt;/p&gt;
 
-&lt;h5 id=&quot;expected-clickthrough-rate-the-likelihood-that-your-ad-will-be-clicked-when-shown&quot;&gt;Expected clickthrough rate: The likelihood that your ad will be clicked when shown.&lt;/h5&gt;
-&lt;h5 id=&quot;ad-relevance-how-closely-your-ad-matches-the-intent-behind-a-users-search-1&quot;&gt;Ad relevance: How closely your ad matches the intent behind a user’s search.&lt;/h5&gt;
-&lt;h5 id=&quot;landing-page-experience-how-relevant-and-useful-your-landing-page-is-to-people-who-click-your-ad-1&quot;&gt;Landing page experience: How relevant and useful your landing page is to people who click your ad.&lt;/h5&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
+ 1. Expected clickthrough rate: The likelihood that your ad will be clicked when shown.
+ 2. Ad relevance: How closely your ad matches the intent behind a user&apos;s search.
+ 3. Landing page experience: How relevant and useful your landing page is to people who click your ad.
+ 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;These components can help you see whether to update your ad text, keyword selection, or landing page content. You’ll see a status of “Below average,” “Average,” and “Above average” for each component to give you a sense of which areas might need improvement.&lt;/p&gt;
 
