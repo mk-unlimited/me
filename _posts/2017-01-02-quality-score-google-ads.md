@@ -4,7 +4,7 @@ title: Quality Score Could Reduce Your PPC Cost
 description: Quality Score in Google Ads can be monumental in making better experience on google ads. 
 summary: Here we cover what are the things to lookout for and examples to use in order to improve Ad Quality
 tags: googleads QoAS LandingPage CTR
-minute: 1
+minute: 3
 ---
 
 Quality Score is a diagnostic tool meant to give you a sense of how well your ad quality compares to other advertisers. This score is measured on a scale from 1-10 and available at the keyword level. A higher Quality Score means that your ad and landing page are more relevant and useful to someone searching for your keyword, compared to other advertisers. You can use the Quality Score diagnostic tool to identify where it might be beneficial to improve your ads, landing pages, or keyword selection.
@@ -42,9 +42,13 @@ This article guides you through different ways to use your Quality Score to impr
 ## 1. Review your Quality Score components
 For specific insights on where to make improvements, dive deeper into the 3 components of Quality Score as stated above:
 
-##### Expected clickthrough rate: The likelihood that your ad will be clicked when shown.
-##### Ad relevance: How closely your ad matches the intent behind a user's search.
-##### Landing page experience: How relevant and useful your landing page is to people who click your ad.
+```
+
+ 1. Expected clickthrough rate: The likelihood that your ad will be clicked when shown.
+ 2. Ad relevance: How closely your ad matches the intent behind a user's search.
+ 3. Landing page experience: How relevant and useful your landing page is to people who click your ad.
+ 
+```
 
 These components can help you see whether to update your ad text, keyword selection, or landing page content. You’ll see a status of “Below average,” “Average,” and “Above average” for each component to give you a sense of which areas might need improvement. 
 
