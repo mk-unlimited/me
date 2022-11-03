@@ -7,23 +7,24 @@ tags: googleads QoAS LandingPage CTR
 minute: 3
 ---
 
+![ad quality](https://www.adsecure.com/wp-content/uploads/2022/03/image-adsecure-1.png)
+
 Quality Score is a diagnostic tool meant to give you a sense of how well your ad quality compares to other advertisers. This score is measured on a scale from 1-10 and available at the keyword level. A higher Quality Score means that your ad and landing page are more relevant and useful to someone searching for your keyword, compared to other advertisers. You can use the Quality Score diagnostic tool to identify where it might be beneficial to improve your ads, landing pages, or keyword selection.
 
 Quality Score is calculated based on the combined performance of 3 components:
 
-##### Expected clickthrough rate (CTR): The likelihood that your ad will be clicked when shown.
-##### Ad relevance: How closely your ad matches the intent behind a user's search.
-##### Landing page experience: How relevant and useful your landing page is to people who click your ad.
+```
 
+1. Expected clickthrough rate (CTR): The likelihood that your ad will be clicked when shown.
+2. Ad relevance: How closely your ad matches the intent behind a user's search.
+3. Landing page experience: How relevant and useful your landing page is to people who click your ad.
 
-
-
+```
 
 # What does not impact ad quality
 
 According to google ads documentation, we see that Frequency of ads, Bidding , Conversions reported and Account structure.
 
-![does not affect ads](https://th.bing.com/th/id/OIP.UipROJx2XimnnMjYHpxKuAAAAA?pid=ImgDet&rs=1)
 
 Bidding: The amount you bid may affect your Ad Rank, but it doesn’t impact the assessment of your ad quality
 
@@ -89,7 +90,7 @@ Adding a phrase to your ad like “free bow tie with order” may attract shoppe
 
 Bringing people to your site is only one part of online marketing. It’s important to provide visitors with an excellent experience on your website.
 
-![landing page](https://thumbs.gfycat.com/BlondCriminalBee-max-1mb.gif)
+![landing page](https://unbounce.com/photos/750-X-400-2x.jpg)
 
 If your Landing page exp. has a status of “Below average” or “Average,” try these best practices:
 
@@ -104,9 +105,7 @@ Keep in mind, the word-for-word phrase from a search term doesn’t need to be o
 A search for “South Chicago Chihuahua-friendly budget hotels” doesn’t need to lead to a landing page with the headline “South Chicago Chihuahua-friendly budget hotels.” Instead focus on creating great experiences that deliver what the user is looking for.
 
 ## 5. Use Quality Score with other metrics
-Look at other metrics in your account, like clickthrough rate, conversion rate, and site engagement. They’re connected to your performance and can help as you look for specific areas to improve.
-
-As you review your performance, you can use Quality Score as a filter to tell you where to focus your efforts:
+Look at other metrics in your account, like clickthrough rate, conversion rate, and site engagement. They’re connected to your performance and can help as you look for specific areas to improve. As you review your performance, you can use Quality Score as a filter to tell you where to focus your efforts:
 
 Look through your high-performing keywords and use Quality Score to identify which ones may do even better with changes to your ads and landing pages.
 Use low Quality Scores and component status to find weaker trends for ad relevance, clickthrough rate, and landing page experience that might exist across your account, and set long-term plans for improvement.
