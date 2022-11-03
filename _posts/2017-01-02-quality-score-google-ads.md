@@ -39,7 +39,7 @@ Quality Score can be a valuable tool in identifying ways to improve your ads, ke
 
 This article guides you through different ways to use your Quality Score to improve your performance.
 
-# 1. Review your Quality Score components
+## 1. Review your Quality Score components
 For specific insights on where to make improvements, dive deeper into the 3 components of Quality Score as stated above:
 
 ##### Expected clickthrough rate: The likelihood that your ad will be clicked when shown.
@@ -50,7 +50,7 @@ These components can help you see whether to update your ad text, keyword select
 
 The key point is: give your users what they’re looking for and good performance should follow. Focus on your long-term performance goals and look for ways to reach them by improving your user experience, using Quality Score as a diagnostic tool. 
 
-# 2. Make ads more relevant to keywords
+## 2. Make ads more relevant to keywords
 Ad relevance shows you how relevant your ads are to the keywords they’re targeting. 
 
 ![ads relevance](https://cdn.searchenginejournal.com/wp-content/uploads/2019/09/acf3fcff-f2d6-4cc4-b74d-389658ff34cd.jpeg)
@@ -62,7 +62,7 @@ Look for ad groups with many different keywords that can’t be easily addressed
 Try grouping your keywords into themes to increase relevance. These themes can be based on your products, services, or other categories. For example, if you sell rings, you can have a group of keywords for "engagement rings" and another group of keywords for "wedding bands."
 Note that moving an ad group with the same ads and keywords to another campaign or account does not impact your ad quality. 
 
-# 3. Try to improve your clickthrough rate (CTR)
+## 3. Try to improve your clickthrough rate (CTR)
 
 ![click through rate](https://cdn.goodfirms.co/images/click-through-rate-formula.jpg)
 
@@ -81,7 +81,7 @@ For example, let’s say you sell luxury dress shoes.
 
 Adding a phrase to your ad like “free bow tie with order” may attract shoppers looking for deals. On the other hand, phrases like “fine craftsmanship” or “custom Italian design” may engage people looking for a quality brand. This highly depends on who your targeting and the value your product provides. Due to this, the bargain message may get you more clicks, but may not result in as many loyal customers over the long term.
 
-# 4. Consider updating your landing page
+## 4. Consider updating your landing page
 
 Bringing people to your site is only one part of online marketing. It’s important to provide visitors with an excellent experience on your website.
 
@@ -99,7 +99,7 @@ Keep in mind, the word-for-word phrase from a search term doesn’t need to be o
 
 A search for “South Chicago Chihuahua-friendly budget hotels” doesn’t need to lead to a landing page with the headline “South Chicago Chihuahua-friendly budget hotels.” Instead focus on creating great experiences that deliver what the user is looking for.
 
-# 5. Use Quality Score with other metrics
+## 5. Use Quality Score with other metrics
 Look at other metrics in your account, like clickthrough rate, conversion rate, and site engagement. They’re connected to your performance and can help as you look for specific areas to improve.
 
 As you review your performance, you can use Quality Score as a filter to tell you where to focus your efforts:
