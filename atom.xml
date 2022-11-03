@@ -4,7 +4,7 @@
  <title>Mark Kumar</title>
  <link href="/me/atom.xml" rel="self"/>
  <link href="/me/"/>
- <updated>2022-11-03T06:51:30+01:00</updated>
+ <updated>2022-11-03T07:11:05+01:00</updated>
  <id></id>
  <author>
    <name>Mark</name>
@@ -67,19 +67,22 @@
    <link href="/me/2017/01/02/quality-score-google-ads"/>
    <updated>2017-01-02T00:00:00+01:00</updated>
    <id>/2017/01/02/quality-score-google-ads</id>
-   <content type="html">&lt;p&gt;Quality Score is a diagnostic tool meant to give you a sense of how well your ad quality compares to other advertisers. This score is measured on a scale from 1-10 and available at the keyword level. A higher Quality Score means that your ad and landing page are more relevant and useful to someone searching for your keyword, compared to other advertisers. You can use the Quality Score diagnostic tool to identify where it might be beneficial to improve your ads, landing pages, or keyword selection.&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://www.adsecure.com/wp-content/uploads/2022/03/image-adsecure-1.png&quot; alt=&quot;ad quality&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Quality Score is a diagnostic tool meant to give you a sense of how well your ad quality compares to other advertisers. This score is measured on a scale from 1-10 and available at the keyword level. A higher Quality Score means that your ad and landing page are more relevant and useful to someone searching for your keyword, compared to other advertisers. You can use the Quality Score diagnostic tool to identify where it might be beneficial to improve your ads, landing pages, or keyword selection.&lt;/p&gt;
 
 &lt;p&gt;Quality Score is calculated based on the combined performance of 3 components:&lt;/p&gt;
 
-&lt;h5 id=&quot;expected-clickthrough-rate-ctr-the-likelihood-that-your-ad-will-be-clicked-when-shown&quot;&gt;Expected clickthrough rate (CTR): The likelihood that your ad will be clicked when shown.&lt;/h5&gt;
-&lt;h5 id=&quot;ad-relevance-how-closely-your-ad-matches-the-intent-behind-a-users-search&quot;&gt;Ad relevance: How closely your ad matches the intent behind a user’s search.&lt;/h5&gt;
-&lt;h5 id=&quot;landing-page-experience-how-relevant-and-useful-your-landing-page-is-to-people-who-click-your-ad&quot;&gt;Landing page experience: How relevant and useful your landing page is to people who click your ad.&lt;/h5&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
+1. Expected clickthrough rate (CTR): The likelihood that your ad will be clicked when shown.
+2. Ad relevance: How closely your ad matches the intent behind a user&apos;s search.
+3. Landing page experience: How relevant and useful your landing page is to people who click your ad.
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h1 id=&quot;what-does-not-impact-ad-quality&quot;&gt;What does not impact ad quality&lt;/h1&gt;
 
 &lt;p&gt;According to google ads documentation, we see that Frequency of ads, Bidding , Conversions reported and Account structure.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://th.bing.com/th/id/OIP.UipROJx2XimnnMjYHpxKuAAAAA?pid=ImgDet&amp;amp;rs=1&quot; alt=&quot;does not affect ads&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Bidding: The amount you bid may affect your Ad Rank, but it doesn’t impact the assessment of your ad quality&lt;/p&gt;
 
@@ -146,7 +149,7 @@ Note that moving an ad group with the same ads and keywords to another campaign 
 
 &lt;p&gt;Bringing people to your site is only one part of online marketing. It’s important to provide visitors with an excellent experience on your website.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://thumbs.gfycat.com/BlondCriminalBee-max-1mb.gif&quot; alt=&quot;landing page&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://unbounce.com/photos/750-X-400-2x.jpg&quot; alt=&quot;landing page&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;If your Landing page exp. has a status of “Below average” or “Average,” try these best practices:&lt;/p&gt;
 
@@ -164,9 +167,7 @@ Keep in mind, the word-for-word phrase from a search term doesn’t need to be o
 &lt;p&gt;A search for “South Chicago Chihuahua-friendly budget hotels” doesn’t need to lead to a landing page with the headline “South Chicago Chihuahua-friendly budget hotels.” Instead focus on creating great experiences that deliver what the user is looking for.&lt;/p&gt;
 
 &lt;h2 id=&quot;5-use-quality-score-with-other-metrics&quot;&gt;5. Use Quality Score with other metrics&lt;/h2&gt;
-&lt;p&gt;Look at other metrics in your account, like clickthrough rate, conversion rate, and site engagement. They’re connected to your performance and can help as you look for specific areas to improve.&lt;/p&gt;
-
-&lt;p&gt;As you review your performance, you can use Quality Score as a filter to tell you where to focus your efforts:&lt;/p&gt;
+&lt;p&gt;Look at other metrics in your account, like clickthrough rate, conversion rate, and site engagement. They’re connected to your performance and can help as you look for specific areas to improve. As you review your performance, you can use Quality Score as a filter to tell you where to focus your efforts:&lt;/p&gt;
 
 &lt;p&gt;Look through your high-performing keywords and use Quality Score to identify which ones may do even better with changes to your ads and landing pages.
 Use low Quality Scores and component status to find weaker trends for ad relevance, clickthrough rate, and landing page experience that might exist across your account, and set long-term plans for improvement.&lt;/p&gt;
