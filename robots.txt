@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: mk-unlimtied.github.io/sitemap.xml
+Sitemap: /sitemap.xml
