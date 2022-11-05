@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Mark Kumar</title>
- <link href="mk-unlimited.github.io/me/atom.xml" rel="self"/>
- <link href="mk-unlimited.github.io/me/"/>
- <updated>2022-11-05T15:56:00+01:00</updated>
+ <link href="mk-unlimited.github.io/mk-unlimited.github.io/atom.xml" rel="self"/>
+ <link href="mk-unlimited.github.io/mk-unlimited.github.io/"/>
+ <updated>2022-11-05T16:03:11+01:00</updated>
  <id>mk-unlimited.github.io</id>
  <author>
    <name>Mark</name>
@@ -14,7 +14,7 @@
  
  <entry>
    <title>A/B Testing Your Google Ads</title>
-   <link href="mk-unlimited.github.io/me/2020/07/31/ab-testing-ads"/>
+   <link href="mk-unlimited.github.io/mk-unlimited.github.io/2020/07/31/ab-testing-ads"/>
    <updated>2020-07-31T00:00:00+02:00</updated>
    <id>mk-unlimited.github.io/2020/07/31/ab-testing-ads</id>
    <content type="html">&lt;p&gt;To put on short sentences. A/B Testing is when you would need to test out if your ads are getting you the best conversion from your website or any ads for that matter on google platforms. This is similar to the &lt;a href=&quot;https://mk-unlimited.github.io/me/2017/01/02/quality-score-google-ads&quot;&gt;ads quality score&lt;/a&gt;&lt;/p&gt;
@@ -64,7 +64,7 @@
  
  <entry>
    <title>Quality Score Could Reduce Your PPC Cost</title>
-   <link href="mk-unlimited.github.io/me/2017/01/02/quality-score-google-ads"/>
+   <link href="mk-unlimited.github.io/mk-unlimited.github.io/2017/01/02/quality-score-google-ads"/>
    <updated>2017-01-02T00:00:00+01:00</updated>
    <id>mk-unlimited.github.io/2017/01/02/quality-score-google-ads</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://www.adsecure.com/wp-content/uploads/2022/03/image-adsecure-1.png&quot; alt=&quot;ad quality&quot; /&gt;&lt;/p&gt;
@@ -176,7 +176,7 @@ Use low Quality Scores and component status to find weaker trends for ad relevan
  
  <entry>
    <title>LPI and Examples</title>
-   <link href="mk-unlimited.github.io/me/2016/11/27/lpi-examples"/>
+   <link href="mk-unlimited.github.io/mk-unlimited.github.io/2016/11/27/lpi-examples"/>
    <updated>2016-11-27T00:00:00+01:00</updated>
    <id>mk-unlimited.github.io/2016/11/27/lpi-examples</id>
    <content type="html">&lt;h1 id=&quot;low-purchase-intent-lpi-search-terms&quot;&gt;Low Purchase Intent (LPI) Search Terms&lt;/h1&gt;
@@ -841,7 +841,7 @@ Use low Quality Scores and component status to find weaker trends for ad relevan
  
  <entry>
    <title>Visuals for Google Ads ?</title>
-   <link href="mk-unlimited.github.io/me/2014/05/12/visuals-for-googleads"/>
+   <link href="mk-unlimited.github.io/mk-unlimited.github.io/2014/05/12/visuals-for-googleads"/>
    <updated>2014-05-12T00:00:00+02:00</updated>
    <id>mk-unlimited.github.io/2014/05/12/visuals-for-googleads</id>
    <content type="html">&lt;p&gt;I start of with a &lt;a href=&quot;https://www.krusecontrolinc.com/rule-of-7-how-social-media-crushes-old-school-marketing-2021/&quot;&gt;research&lt;/a&gt; that was done a while back that states you’ll come into contact with that prospect at least 7 times just to create interest or to be heard by the prospect. Not all touches are good, some may be bad or good. The point is that you’ll need to make the message meaningful and not regular sales talk.&lt;/p&gt;
