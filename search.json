@@ -10,21 +10,21 @@
     } ,
   
     {
+      "title"    : "A/B Testing Your Google Ads",
+      "description" : "There many different options to learn to code online, so in this article, find places you can learn to code",
+      "category" : "",
+      "tags"     : "coding",
+      "url"      : "/me/2021/07/31/ab-testing-ads",
+      "date"     : "2021-07-31 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Quality Score Could Reduce Your PPC Cost",
       "description" : "Quality Score in Google Ads can be monumental in making better experience on google ads.",
       "category" : "",
       "tags"     : "googleads, QoAS, LandingPage, CTR",
       "url"      : "/me/2021/01/02/quality-score-google-ads",
       "date"     : "2021-01-02 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "A/B Testing Your Google Ads",
-      "description" : "There many different options to learn to code online, so in this article, find places you can learn to code",
-      "category" : "",
-      "tags"     : "coding",
-      "url"      : "/me/2020/07/31/ab-testing-ads",
-      "date"     : "2020-07-31 00:00:00 +0200"
     } 
   
 ]
